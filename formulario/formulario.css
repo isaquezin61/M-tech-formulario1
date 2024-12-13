@@ -1,0 +1,33 @@
+
+body{
+    background-color: rgb(112, 254, 254);
+    margin: 0%;
+    text-align: center;
+    background-image: url(https://images.pexels.com/photos/28950838/pexels-photo-28950838/free-photo-of-arvore-solitaria-em-campo-de-trigo-ucraniano.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+}
+h1{
+    color: rgb(10, 63, 255);
+
+    
+}
+
+form{
+padding: 50px;
+border-radius: 28px;
+display: inline-block;
+text-align: left;
+box-shadow: 0 0 28px;
+width: 50%;
+max-width: 600px;
+margin: auto;
+
+}
+
+h2{
+    color: rgb(0, 0, 0);
+    font-style: oblique;
+}
+
+input{
+    color: rgba(4, 1, 1, 0.822);
+}
